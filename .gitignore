@@ -3,7 +3,7 @@ node_modules/
 
 # Environment variables
 # Ignore environment files
-src/.env
+.env
 
 
 # Logs
